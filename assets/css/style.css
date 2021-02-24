@@ -1819,3 +1819,13 @@ section {
 .social-links-gevents{
   margin-top: 50px;
 }
+
+.social-links-gevents i {
+  margin-right: 10px;
+}
+
+.social-links-gevents i:hover {
+  background: #508ed4;
+  color: #fff;
+  text-decoration: none;
+}
